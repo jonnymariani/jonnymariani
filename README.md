@@ -1,13 +1,15 @@
 <h1 align="center">Jonny Mariani</h1>
-<h3 align="center">Estudante de Ánalise e Desenvolvimento de Sistemas no <a href="https://www.fsg.edu.br/"> Centro Universitário da Serra Gaúcha</a>.</h3>
-<br><br>
 
-<img src="https://github.com/jonnymariani/jonnymariani/blob/main/6.webp" min-width="400px" 
-max-width="400px" width="400px" align="right" padding-top="250px" alt="Computador iuriCode">
+<h3 align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.fsg.edu.br/" target="_blank"> Centro Universitário da Serra Gaúcha</a>  
+  <br><br>  
+  <a href="https://www.fsg.edu.br/" target="_blank">
+    <img align="center" src="https://www.fsg.edu.br/wp-content/themes/cruzeiroportais2019/assets/imagens/cse-marcas-fsg_rdz_va1.svg">
+  </a>
+</h3> 
 
-
-
-
+<a href="#"><img src="https://github.com/jonnymariani/jonnymariani/blob/main/6.webp" min-width="400px" 
+max-width="400px" width="400px" align="right" padding-top="250px" alt=":)"></a>
 
 
 <h3 align="left">Linguagens:</h3>
@@ -74,12 +76,6 @@ max-width="400px" width="400px" align="right" padding-top="250px" alt="Computado
   <a href="mailto: jonnymariani@hotmail.com" target="_blank" alt="E-mail">
   <img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail"/>
   </a>
-  
-
-  
-  
-
-  
 </p>  
 
 
