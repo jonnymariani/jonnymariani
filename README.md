@@ -1,0 +1,87 @@
+<h1 align="center">Jonny Mariani</h1>
+<h3 align="center">Estudante de Ánalise e Desenvolvimento de Sistemas no <a href="https://www.fsg.edu.br/"> Centro Universitário da Serra Gaúcha</a>.</h3>
+<br><br>
+
+<img src="https://github.com/jonnymariani/jonnymariani/blob/main/6.webp" min-width="400px" 
+max-width="400px" width="400px" align="right" padding-top="250px" alt="Computador iuriCode">
+
+
+
+
+
+
+<h3 align="left">Linguagens:</h3>
+
+<div display="inline-block">
+
+<a href="#" alt="C">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="C#">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="Javascript">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="CSS3">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="6%" heigth="6%">
+</a>
+
+</div>
+<br>
+
+
+<h3 align="left">Ferramentas:</h3>
+
+<div display="inline-block">
+
+<a href="#" alt="Visual Studio">
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="VSCode">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="Arduino IDE">
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="Git">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="5%" heigth="5%">
+</a>
+
+<a href="#" alt="Photoshop">
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="5%" heigth="5%">
+</a>
+
+
+
+</div>
+<br>
+
+
+<h3 align="left">Contato:</h3>
+
+<p align="left">
+  <a href="https://discordapp.com/users/SACR3D#2599" target="_blank" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord"/>
+  </a>
+  
+  <a href="mailto: jonnymariani@hotmail.com" target="_blank" alt="E-mail">
+  <img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail"/>
+  </a>
+  
+
+  
+  
+
+  
+</p>  
+
+
+
+
