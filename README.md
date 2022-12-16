@@ -26,6 +26,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="5%" heigth="5%">
 </a>
 
+<a href="#" alt="JQuery">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="5%" heigth="5%">
+</a>
+
 <a href="#" alt="CSS3">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="6%" heigth="6%">
 </a>
