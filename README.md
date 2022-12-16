@@ -6,8 +6,8 @@
     <br><br>   
 </h3>
 
-<a href="#"><img src="https://github.com/jonnymariani/jonnymariani/blob/main/thumbs-up.gif" min-width="400px" max-width="400px"
-        width="400px" align="right" padding-top="250px" alt=":)"></a>
+<a href="#"><img src="https://github.com/jonnymariani/jonnymariani/blob/main/thumbs-up.gif" min-width="250px" max-width="250px"
+        width="250px" align="right" padding-top="250px" alt=":)"></a>
 
 
 <h3 align="left">Linguagens:</h3>
