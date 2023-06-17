@@ -78,7 +78,7 @@
 <h3 align="left">Contato:</h3>
 
 <p align="left">
-<a href="https://discordapp.com/users/SACR3D#2599" target="_blank" alt="Discord">
+<a href="https://discordapp.com/users/jonnymariani" target="_blank" alt="Discord">
         <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord" />
 </a>
 
