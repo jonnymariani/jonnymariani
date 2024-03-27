@@ -1,7 +1,7 @@
 <h1 align="center">Jonny Mariani</h1>
 
 <h3 align="center">
-    Desenvolvedor .NET Full Stack e Formado em Análise e Desenvolvimento de Sistemas pelo <a
+    Desenvolvedor .NET Full Stack Formado em Análise e Desenvolvimento de Sistemas pelo <a
         href="https://www.fsg.edu.br/" target="_blank"> Centro Universitário da Serra Gaúcha</a>
     <br><br>   
 </h3>
