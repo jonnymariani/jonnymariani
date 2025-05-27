@@ -3,7 +3,7 @@
 <p align="center">
     Full Stack .NET Developer<br>
     Graduate in Systems Analysis and Development at
-    <a href="https://www.fsg.edu.br/" target="_blank">Centro Universitário da Serra Gaúcha</a>
+    <a href="https://www.fsg.edu.br/" target="_blank">FSG University Center</a>
 </p>
 
 <div align="center">
